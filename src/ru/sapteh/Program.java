@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Program {
     public static void main(String[] args) throws IOException {
-        Triangle triangle = new Triangle("black",5,6,8,4);
-        System.out.println(triangle.toString());
+    Lorry lorry = new Lorry("MAZ",2000,400,5);
+        System.out.println(lorry.toString());
     }
 }
